@@ -1,0 +1,14 @@
+{
+  "name": "emzentra-fullstack-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EmZentra corporate website with Express contact API",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
